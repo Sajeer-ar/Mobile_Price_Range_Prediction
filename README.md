@@ -68,7 +68,7 @@
 <!-- CREDITS -->
 <h2 id="credits"> :scroll: Credits</h2>
 
-< Kapil Singh > | Keen Learner | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
+< Sajeer Abdul Rahman > | Keen Learner | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
 
 <p> <i> Contact me for Data Science Project Collaborations</i></p>
 
